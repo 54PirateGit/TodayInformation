@@ -1,4 +1,4 @@
-package com.chenwj.todayinformation;
+package com.chenwj.todayinformation.utils;
 
 import android.os.Handler;
 
